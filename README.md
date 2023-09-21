@@ -8,7 +8,11 @@ DuangCloud，也被称为Duang机场，是一家专业的老牌优质SS机场，
 
 ## duangcloud优惠码
 
-端午9折优惠码：622
+9折优惠码：happydays
+
+8折优惠码（mini不可用，限年付）：happyhappydays
+
+数量有限，用完为止，每人限用一次
 
 ## 特色
 
