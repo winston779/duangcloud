@@ -4,7 +4,11 @@
 
 ## duangcloud简介
 
-DuangCloud，也被称为Duang机场，是一家专业的老牌优质SS机场，也是一家能看Netflix的机场，全部升级到企业级华为BGP专线，类似于IPLC/IEPL国际专线，极速稳定。现在，DuangCloud已经全面升级后台管理内核和操作面板，并全部使用华为BGP专线，及提供10Gbps内网专线接口，不限速、不限制同时在线的设备数量。因为内网专线不过GFW，不存在被封锁的可能，使用最快的Shadowsocks/SS协议更极速稳定，所以DuangCloud已经全部切换至速度更快、效率更高的Shadowsocks/SS节点。在使用过一段时间后，我认为其服务器线路节点稳定性和网络宽带质量都是非常优秀的。
+DuangCloud，也被称为Duang机场，是一家专业的老牌优质SS机场，也是一家能看Netflix的机场，全部升级到企业级华为BGP专线，类似于IPLC/IEPL国际专线，极速稳定。
+
+DuangCloud已经全面升级后台管理内核和操作面板，并全部使用华为BGP专线，及提供10Gbps内网专线接口，不限速、不限制同时在线的设备数量。因为内网专线不过GFW，不存在被封锁的可能，
+
+DuangCloud使用最快的Shadowsocks/SS协议更极速稳定，在使用过一段时间后，我认为其服务器线路节点稳定性和网络宽带质量都是非常优秀的。
 
 ## duangcloud优惠码
 
