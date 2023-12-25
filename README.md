@@ -12,6 +12,8 @@ DuangCloud有官方的Windows、MacOS、Android定制客户端，简单方便防
 
 ## duangcloud优惠码
 
+双旦9折优惠码：happydouble0
+
 9折优惠码：happydays
 
 8折优惠码（mini不可用，限年付）：happyhappydays
