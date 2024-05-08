@@ -12,11 +12,11 @@ DuangCloud有官方的Windows、MacOS、Android定制客户端，简单方便防
 
 ## duangcloud优惠码
 
-DuangCloud新年优-惠活动
+DuangCloud五一优-惠活动
 
-9-折优-惠码：duangweb.com
+85-折优-惠码：dc51off15 
 
-8-折优-惠码（限年付）：portal.dc-site5.com（Diamond不参与活动）
+8-折优-惠码（限年付）：dc51off20 （Diamond不参与活动） 
 
 数量有限，用完为止，每人限用一次
 
