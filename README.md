@@ -1,6 +1,6 @@
 # duangcloud官网最新地址
 
-最新地址：[portal.dc-site5.com](https://portal.dc-site5.com/#/register?code=RmU1ii53)
+最新地址：[portal.dc-site5.com](https://portal.dc-site5.com)
 
 > 疑似跑路，关注中
 
