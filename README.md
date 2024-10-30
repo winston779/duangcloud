@@ -1,8 +1,6 @@
 # duangcloud官网最新地址
 
-最新地址：[portal.dc-site5.com](https://portal.dc-site5.com)
-
-> 疑似跑路，关注中
+最新地址：[portal.dc-site5.com](https://portal.dc-site5.com/#/register?code=RmU1ii53)
 
 ## duangcloud简介
 
@@ -14,13 +12,13 @@ DuangCloud有官方的Windows、MacOS、Android定制客户端，简单方便防
 
 ## duangcloud优惠码
 
-DuangCloud五一优-惠活动
+DuangCloud双十一优-惠活动 
 
-85-折优-惠码：dc51off15 
+8-折优-惠码：dc1111off20 
 
-8-折优-惠码（限年付）：dc51off20 （Diamond不参与活动） 
+7-折优-惠码（限年付）：dc1111off30 
 
-数量有限，用完为止，每人限用一次
+（Diamond不参与活动） 数量有限，用完为止
 
 ## 特色
 
